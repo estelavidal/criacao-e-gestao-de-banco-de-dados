@@ -74,5 +74,4 @@ SELECT * FROM HISTORICO_TREINAMENTO;
 
 - Requisitos: Banco de dados Oracle (ou similar). Ferramenta de SQL, como Oracle SQL Developer, LiveSQL ou SQLcl. Permissões adequadas para criar tabelas e inserir dados.
 
-- Licença
-Este projeto é de código aberto. Você pode usar e modificar conforme necessário, desde que mantenha a atribuição e siga os termos desta licença.
+- Licença: Este projeto é de código aberto. Você pode usar e modificar conforme necessário, desde que mantenha a atribuição e siga os termos desta licença.
